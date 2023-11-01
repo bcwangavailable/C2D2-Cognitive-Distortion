@@ -8,3 +8,4 @@ I am currently organizing this content, and more details will be released before
 
 For access to the data and related code, please contact [yxsun@ir.hit.edu.cn](mailto:yxsun@ir.hit.edu.cn). When reaching out, kindly provide details regarding your institution and the purpose of your request. Upon review, we will send you the required data.
 
+![C2D2 Introduction Image](https://github.com/bcwangavailable/C2D2-Cognitive-Distortion/blob/main/intro.png)
