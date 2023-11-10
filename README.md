@@ -2,7 +2,7 @@
 
 This is for the paper in **EMNLP23-findings** titled "C2D2 Dataset: A Resource for Analyzing Cognitive Distortions and Its Impact on Mental Health".
 
-I am currently organizing this content, and more details will be released before November 6th.
+C2D2 and C2D2-E datasets are now available for application.
 
 [View the full paper here](https://github.com/bcwangavailable/C2D2-Cognitive-Distortion/blob/main/Cognitive_distortion_emnlp%20(16).pdf).
 
